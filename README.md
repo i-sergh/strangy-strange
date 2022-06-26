@@ -2,8 +2,7 @@
 - # 👋 Hello World
 - ## 🐡 I'm Sergei Ippolitov @strangy-strange 
 
-<h1> ЭТО </h1>
-<h1>\/\/\/\/\/</h1>
+
 <!---
 🐱‍🏍
 - 👋 Hi, I’m @strangy-strange
